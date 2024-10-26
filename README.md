@@ -30,7 +30,11 @@ Développer les méthodes nécessaires pour gérer les requêtes HTTP, valider l
 6. La couche présentation
 Créer les templates HTML nécessaires pour afficher les formulaires d'inscription, de mise à jour et la liste des utilisateurs.
 
-7. Exécution de l'application
+
+https://github.com/user-attachments/assets/10d03dbc-ec2f-4544-a601-0e7dd43caadb
+
+
+8. Exécution de l'application
 Définir le point d'entrée de l'application et exécuter l'application pour tester les fonctionnalités CRUD.
 
 Conclusion
